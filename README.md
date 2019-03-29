@@ -1,4 +1,10 @@
-# reasonmtl-dojo-1
+# reasonmtl-dojo-2
+
+We based this off of [the first ReasonMTL dojo](https://github.com/ReasonMTL/reasonmtl-dojo-1) where we went all hip-to-be-square. This time around we wanted to challenge ourselves and add a "pre-existing" Javascript React Component to the context of our little Reason React playground.
+
+All of our collaborative experimentation is based on [this talk](https://youtu.be/brQGSrcFFno) surrounding [genType](https://github.com/cristianoc/genType).
+
+TODO show link or screenshot of final outcome as per [dojo-closure-inducing PR](https://github.com/ReasonMTL/reasonmtl-dojo-1/pull/1) from @cegal
 
 ## Run Project
 
